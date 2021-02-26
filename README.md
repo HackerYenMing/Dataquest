@@ -1,3 +1,3 @@
-# Dataquest
+# Dataquest Practices
 
-This is the practice of ming for learning Data analysis (Dataquest) .
+Record notebooks on [Dataquest](https://www.dataquest.io/) courses to practice data analysis skills
